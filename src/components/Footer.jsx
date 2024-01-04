@@ -1,17 +1,8 @@
-const Footer = ({ mode }) => {
+const Footer = () => {
     return (
-        <div>
-            {mode === "human" ? (
-                <div className="footer">
-                    <p>Website Created By Grace Kearns</p>
-                </div>
-            ) : (
-                <div className="footerA">
-                    <p>Website Created By Grace Kearns</p>
-                </div>
-            )}
+        <div className="footer">
+            <p>Created By Grace Kearns</p>
         </div>
     )
-
 }
 export default Footer

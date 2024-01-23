@@ -52,9 +52,25 @@ const Installation = () => {
         </span>
       ),
     },
+
     {
-      step: "Step - 4: Have you allocated enough RAM?",
+      step: "Step - 4: Do you have the aether mod?",
       key: "step4",
+      info: (
+        <span className="Instructions">
+          I have attached some bonus mods to this modpack and if I decide to do this again the future you'll need to do the same each time I add mods.
+          <br></br>
+          <br></br>
+          In the CurseForge launcher you will be able to click on the thumbnail of the atm8 modpack, this will expand the menu, notice the three drop dots on the top right, click them and you'll see something called "open folder" it should be the 4th item.
+          <br></br>
+          <br></br>
+          Ignore all the files but double click on the mods folder, leave this window open and download <a href="https://www.curseforge.com/minecraft/mc-mods/aether/download/5030546">  <span> THIS </span> </a> after the download is finished drag and drop the jar file into the mods folder you opened previously. All done
+        </span>
+      ),
+    },
+    {
+      step: "Step - 5: Have you allocated enough RAM?",
+      key: "step5",
       info: (
         <span className="Instructions">
           In some cases when booting up the modpack you'll find your minecraft to be a little bit slow, if this is the case you might want to bump up the RAM allocation.
@@ -68,8 +84,8 @@ const Installation = () => {
       ),
     },
     {
-      step: "Step - 5: Have you connected?",
-      key: "step5",
+      step: "Step - 6: Have you connected?",
+      key: "step6",
       info: (
         <span className="Instructions">
          And last but not least the connection information is the following:

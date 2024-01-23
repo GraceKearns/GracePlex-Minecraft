@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/GracePlex-Minecraft/static/css/main.2fc10876.css",
-    "main.js": "/GracePlex-Minecraft/static/js/main.b57af187.js",
+    "main.js": "/GracePlex-Minecraft/static/js/main.da543308.js",
     "static/js/787.bf3b022f.chunk.js": "/GracePlex-Minecraft/static/js/787.bf3b022f.chunk.js",
     "static/media/DeterminationMonoWebRegular-Z5oq.ttf": "/GracePlex-Minecraft/static/media/DeterminationMonoWebRegular-Z5oq.2f9b96898e4db1b8e690.ttf",
     "static/media/8bitOperatorPlus-Regular.ttf": "/GracePlex-Minecraft/static/media/8bitOperatorPlus-Regular.325b9b8522af8a950cb3.ttf",
     "index.html": "/GracePlex-Minecraft/index.html",
     "main.2fc10876.css.map": "/GracePlex-Minecraft/static/css/main.2fc10876.css.map",
-    "main.b57af187.js.map": "/GracePlex-Minecraft/static/js/main.b57af187.js.map",
+    "main.da543308.js.map": "/GracePlex-Minecraft/static/js/main.da543308.js.map",
     "787.bf3b022f.chunk.js.map": "/GracePlex-Minecraft/static/js/787.bf3b022f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2fc10876.css",
-    "static/js/main.b57af187.js"
+    "static/js/main.da543308.js"
   ]
 }
